@@ -1,0 +1,35 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+body{
+	background-color: #D3D8E8;
+}
+header{
+	background: #415e9b;
+	height: 82px;
+	border-bottom: 1px solid #133783;
+}
+.right{
+	position: absolute;
+	width: 45%;
+	top: 16%;
+	left: 56%;
+}
+.left{
+position: absolute;
+	width: 55%;
+	left: 0%;
+	bottom: 75%	
+}
+.image{
+	position: absolute;
+	left: 200px;
+	top:  100%;
+	
+}
+.Gender{
+	margin-right: 20px
+	padding:40px;
+}
+
